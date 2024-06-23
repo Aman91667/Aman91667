@@ -28,10 +28,10 @@ Description of your project.
 
 ## Badges
 
-### GitHub Administration
-(https://img.shields.io/badge/GitHub%20Administration-181717?style=for-the-badge&logo=github&logoColor=white)
+### GitHub Administration Badge
+https://www.credly.com/badges/a892eb03-3337-4127-bbea-a05fc5f74740/public_url
 
 ## Connect with Me
 
-- [LinkedIn]https://www.linkedin.com/in/aman-jain-130167258
+- LinkedIn: https://www.linkedin.com/in/aman-jain-130167258
 Thanks for visiting my profile! 😊
