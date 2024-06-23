@@ -21,13 +21,14 @@ Hi there! I'm [Your Name], a passionate web developer and aspiring software engi
 
 ### Healthy Food
 A comprehensive solution to monitor and track the Food Habits. This project aims to provide valuable instruction about your Diet plain and support you in your Healthy Life style.
+https://github.com/Aman91667/Buy-book-/commit/88d5a4457886ef3271c56d2f02f7fe2c737500fa
 
 ### Buy Book
 A plateform where you can buy books according to your choices.
 
 ## Badges
 
-https://github.com/Aman91667/Buy-book-/commit/88d5a4457886ef3271c56d2f02f7fe2c737500fa### GitHub Administration Badge
+### GitHub Administration Badge
 https://www.credly.com/badges/a892eb03-3337-4127-bbea-a05fc5f74740/public_url
 
 ## Connect with Me
