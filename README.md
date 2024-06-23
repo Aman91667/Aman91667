@@ -5,8 +5,8 @@ Hi there! I'm [Your Name], a passionate web developer and aspiring software engi
 ## About Me
 
 - 🌐 Web Developer with experience in building websites and web applications.
-- 📚 Currently working on a project: **Mental Health and Well-Being Surveillance, Assessment, and Tracking Solution Among Children**.
-- 🔍 Interested in Effective Policing, Cyber Investigations, Open Source Intelligence, and AI-based tools for investigations.
+- 📚 Currently working on: **GGSOC projects as acontributor**.
+- 🔍 Interested in Effective Policing, Cyber Investigations, Open Source Intelligence, and AI-based tools for investigations, crypto.
 - 🌱 Always learning new technologies and improving my skills.
 - 💬 Ask me about web development, version control systems, and mental health tech.
 - 📫 How to reach me: amanjain91667@gmail.com
@@ -33,4 +33,5 @@ https://www.credly.com/badges/a892eb03-3337-4127-bbea-a05fc5f74740/public_url
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/aman-jain-130167258
+
 Thanks for visiting my profile! 😊
