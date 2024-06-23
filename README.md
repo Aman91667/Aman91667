@@ -13,18 +13,17 @@ Hi there! I'm [Your Name], a passionate web developer and aspiring software engi
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks and Libraries:** React, Node.js, Express.js
-- **Tools:** Git, GitHub, VS Code, Docker
-- **Databases:** MongoDB, MySQL
+- **Languages:** HTML, CSS, JavaScript, C, C++.
+- **Tools:** Git, GitHub, VS Code
+- **Databases:** MySQL
 
 ## Projects
 
-### Mental Health and Well-Being Surveillance, Assessment, and Tracking Solution Among Children
-A comprehensive solution to monitor, assess, and track the mental health and well-being of children. This project aims to provide valuable insights and support for parents, educators, and healthcare professionals.
+### Healthy Food
+A comprehensive solution to monitor and track the Food Habits. This project aims to provide valuable instruction about your Diet plain and support you in your Healthy Life style.
 
-### [Project Name]
-Description of your project.
+### Buy Book
+A plateform where you can buy books according to your choices.
 
 ## Badges
 
