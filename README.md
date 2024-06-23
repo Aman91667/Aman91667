@@ -26,10 +26,12 @@ A comprehensive solution to monitor, assess, and track the mental health and wel
 ### [Project Name]
 Description of your project.
 
-### [Project Name]
-Description of your project.
+## Badges
+
+### GitHub Administration
+(https://img.shields.io/badge/GitHub%20Administration-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Connect with Me
 
-- [LinkedIn][https://www.linkedin.com/in/yourprofile]https://www.linkedin.com/in/aman-jain-130167258
+- [LinkedIn]https://www.linkedin.com/in/aman-jain-130167258
 Thanks for visiting my profile! 😊
