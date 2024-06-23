@@ -9,7 +9,7 @@ Hi there! I'm [Your Name], a passionate web developer and aspiring software engi
 - 🔍 Interested in Effective Policing, Cyber Investigations, Open Source Intelligence, and AI-based tools for investigations.
 - 🌱 Always learning new technologies and improving my skills.
 - 💬 Ask me about web development, version control systems, and mental health tech.
-- 📫 How to reach me: [amanjain91667@gmail.com]
+- 📫 How to reach me: amanjain91667@gmail.com
 
 ## Skills
 
@@ -31,5 +31,5 @@ Description of your project.
 
 ## Connect with Me
 
-- [LinkedIn][(https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/aman-jain-130167258)
+- [LinkedIn][https://www.linkedin.com/in/yourprofile]https://www.linkedin.com/in/aman-jain-130167258
 Thanks for visiting my profile! 😊
